@@ -12,7 +12,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
       
-            Text("Dogs are fantastic")
+            Text("click butons below to change the counter")
             Text("\(num)")
             
             HStack{
